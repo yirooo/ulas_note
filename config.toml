@@ -40,3 +40,6 @@ pygmentsOptions = "linenos=table"
   weight = 40
   identifier = "about"
   url = "/about/"
+  
+[markup.goldmark.renderer]
+  unsafe= true
