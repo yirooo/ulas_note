@@ -3,7 +3,7 @@ title: About
 date: 2020-08-01
 ---
 
-是個動靜自如的宅女，養了隻貓，但也是個超級狗派 :v:  
+是個動靜自如的宅女，養了隻貓，但也是個超級狗派 :3  
 興趣是聽英搖、追劇、動漫跟 NBA。  
 
 既然提到，那順便說一下，
@@ -24,6 +24,8 @@ date: 2020-08-01
 
 大概就是這樣，有想知道什麼的再敲我！  
 
-<img src="https://imgur.com/vyui3YI.png" width="350px" />
-<img src="https://imgur.com/IHGsmw4.png" width="350px" />  
+<img src="https://imgur.com/vyui3YI.png" width="350px"/>
+<img src="https://imgur.com/IHGsmw4.png" width="350px"/>  
+![](https://imgur.com/vyui3YI.png = 250x)
+![](https://imgur.com/IHGsmw4.png) =250x)
 (真香)
