@@ -1,5 +1,10 @@
+[build]
+publish = "public"
+command = "hugo"
+
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.69.2"
+HUGO_VERSION = "0.69.2"
+
 
 [context.production.environment]
-  HUGO_VERSION = "0.69.2"
+HUGO_VERSION = "0.69.2"
