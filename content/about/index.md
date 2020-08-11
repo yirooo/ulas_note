@@ -24,6 +24,6 @@ date: 2020-08-01
 
 大概就是這樣，有想知道什麼的再敲我！  
 
-![](https://imgur.com/NZHAHRE.png)
-![](https://imgur.com/tx0BlZW.png)
+<img src="https://imgur.com/vyui3YI.png" width="350px" />
+<img src="https://imgur.com/IHGsmw4.png" width="350px" />  
 (真香)
