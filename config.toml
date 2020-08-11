@@ -4,6 +4,7 @@ title = "ULA'S NOTE"
 theme = "hugo-theme-zozo"
 summaryLength = 100
 hasCJKLanguage = true
+enableEmoji = true
 
 pygmentsCodefences = true
 pygmentsUseClasses = true
