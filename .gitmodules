@@ -1,0 +1,3 @@
+[submodule "hugo-theme-zozo"]
+	path = hugo-theme-zozo
+	url = https://github.com/varkai/hugo-theme-zozo

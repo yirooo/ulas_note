@@ -1,0 +1,41 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ULA'S NOTE"
+theme = "hugo-theme-zozo"
+summaryLength = 100
+hasCJKLanguage = true
+
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsOptions = "linenos=table"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  subTitle = "Work Hard, Play Harder."
+  keywords = ["Frontend","html","css","javascript"]
+  description = "My learning note."
+  enableMathJax = true
+  enableSummary = true
+
+[social]
+  github = "https://github.com/ulahsieh"
+  
+[[menu.main]]
+  name = "Archive"
+  weight = 20
+  identifier = "archive"
+  url = "/posts/"
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
+  name = "About"
+  weight = 40
+  identifier = "about"
+  url = "/about/"
