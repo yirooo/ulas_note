@@ -1,3 +1,6 @@
 [submodule "hugo-theme-zozo"]
 	path = hugo-theme-zozo
 	url = https://github.com/varkai/hugo-theme-zozo
+[submodule "themes/hugo-notice"]
+	path = themes/hugo-notice
+	url = https://github.com/martignoni/hugo-notice.git
