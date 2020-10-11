@@ -12,10 +12,10 @@ date: 2020-08-01
 
 最瘋狂的事就是單攻玉山跟單車環島，希望有機會能完成泳渡日月潭~  
 
-這個部落格使用 hugo+github+netlify 部署，主要紀錄學前端的筆記，  
-另外我還有另一個紀錄工作還有後端的部落格 [Ulagraphy](https://ulahsieh.github.io/)，有興趣的可以去逛逛。  
+這個部落格使用 hugo+github+netlify 部署，主要紀錄生活跟一些廢言廢語，  
+另外我還有另一個紀錄工作還有學習的部落格 [Ulagraphy](https://ulahsieh.github.io/)，有興趣的可以去逛逛。  
 
-大概就是這樣，有想知道什麼的再敲我！  
+大概就是這樣，有什麼事再敲我！  
 
 <img src="https://imgur.com/vyui3YI.png" alt="mycat1" width="300">
 <img src="https://imgur.com/IHGsmw4.png" alt="mycat2" width="300">
