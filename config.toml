@@ -2,7 +2,7 @@ baseURL = "https://ulahsieh.netlify.app/"
 languageCode = "en-us"
 title = "ULA'S NOTE"
 theme = ["hugo-theme-zozo", "hugo-notice"]
-summaryLength = 100
+summaryLength = 32
 hasCJKLanguage = true
 enableEmoji = true
 
